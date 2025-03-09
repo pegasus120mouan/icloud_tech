@@ -38,8 +38,8 @@
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
 						<a href="tel:+23-345-67890" >
-							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
+							<span>Contactez-nous : </span>
+							<span class="h4">+225 07 08292991</span>
 						</a>
 					</div>
 				</div>
